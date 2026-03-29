@@ -1,0 +1,16 @@
+{
+  "url": "https://www.opusbuildersla.com/blog/open-concept-makes-your-home-appear-larger",
+  "@type": "NewsArticle",
+  "about": {
+    "url": "https://www.opusbuildersla.com/",
+    "name": "Opus Builders",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "How An Open Concept Makes Your Home Appear Larger",
+  "publisher": {
+    "name": "Opus Builders Blog",
+    "@type": "Organization"
+  },
+  "datePublished": "5/28/19"
+}

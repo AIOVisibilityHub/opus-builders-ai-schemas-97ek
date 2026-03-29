@@ -1,0 +1,17 @@
+{
+  "@type": "Article",
+  "genre": "Case Study",
+  "author": {
+    "url": "https://www.opusbuildersla.com/",
+    "name": "Opus Builders",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Opus Pool",
+  "publisher": {
+    "url": "https://www.opusbuildersla.com/",
+    "name": "Opus Builders",
+    "@type": "Organization"
+  },
+  "articleBody": "Swimming pool design and construction."
+}

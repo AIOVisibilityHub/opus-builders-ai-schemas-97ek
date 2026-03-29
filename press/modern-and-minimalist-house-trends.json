@@ -1,0 +1,16 @@
+{
+  "url": "https://www.opusbuildersla.com/blog/modern-and-minimalist-house-trends",
+  "@type": "NewsArticle",
+  "about": {
+    "url": "https://www.opusbuildersla.com/",
+    "name": "Opus Builders",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Modern and Minimalist House Trends",
+  "publisher": {
+    "name": "Opus Builders Blog",
+    "@type": "Organization"
+  },
+  "datePublished": "5/28/19"
+}

@@ -1,0 +1,17 @@
+{
+  "@type": "Article",
+  "genre": "Case Study",
+  "author": {
+    "url": "https://www.opusbuildersla.com/",
+    "name": "Opus Builders",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "3717 Glenfeliz Blvd Shatto Park",
+  "publisher": {
+    "url": "https://www.opusbuildersla.com/",
+    "name": "Opus Builders",
+    "@type": "Organization"
+  },
+  "articleBody": "Residential build in Los Angeles."
+}

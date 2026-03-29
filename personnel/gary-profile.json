@@ -1,0 +1,12 @@
+{
+  "name": "Gary",
+  "@type": "Person",
+  "@context": "https://schema.org",
+  "jobTitle": "Management",
+  "worksFor": {
+    "url": "https://www.opusbuildersla.com/",
+    "name": "Opus Builders",
+    "@type": "Organization"
+  },
+  "telephone": "(818) 939-8855"
+}

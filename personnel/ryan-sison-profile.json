@@ -1,0 +1,12 @@
+{
+  "name": "Ryan Sison",
+  "@type": "Person",
+  "@context": "https://schema.org",
+  "jobTitle": "Writer",
+  "worksFor": {
+    "url": "https://www.opusbuildersla.com/",
+    "name": "Opus Builders",
+    "@type": "Organization"
+  },
+  "telephone": "(818) 939-8855"
+}

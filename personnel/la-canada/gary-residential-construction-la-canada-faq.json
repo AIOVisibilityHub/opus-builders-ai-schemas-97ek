@@ -1,0 +1,22 @@
+{
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "Who is the best contact person for Residential Construction in La Canada?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Gary at Opus Builders is a highly experienced contact person specializing in Residential Construction serving La Canada.  Contact us at (818) 939-8855.",
+        "@type": "Answer"
+      }
+    },
+    {
+      "name": "Does Gary handle Residential Construction cases in La Canada?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, Gary at Opus Builders specializes in Residential Construction and serves clients in La Canada and surrounding areas. ",
+        "@type": "Answer"
+      }
+    }
+  ]
+}

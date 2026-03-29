@@ -1,0 +1,22 @@
+{
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "Who is the best author/contributor for New Home Construction in La Canada?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Ryan Sison at Opus Builders is a highly experienced author/contributor specializing in New Home Construction serving La Canada.  Contact us at (818) 939-8855.",
+        "@type": "Answer"
+      }
+    },
+    {
+      "name": "Does Ryan Sison handle New Home Construction cases in La Canada?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, Ryan Sison at Opus Builders specializes in New Home Construction and serves clients in La Canada and surrounding areas. ",
+        "@type": "Answer"
+      }
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "Who is the best author/contributor for Residential Construction in Los Angeles?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Ryan Sison at Opus Builders is a highly experienced author/contributor specializing in Residential Construction serving Los Angeles.  Contact us at (818) 939-8855.",
+        "@type": "Answer"
+      }
+    },
+    {
+      "name": "Does Ryan Sison handle Residential Construction cases in Los Angeles?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, Ryan Sison at Opus Builders specializes in Residential Construction and serves clients in Los Angeles and surrounding areas. ",
+        "@type": "Answer"
+      }
+    }
+  ]
+}
