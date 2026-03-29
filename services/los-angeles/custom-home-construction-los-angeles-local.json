@@ -1,0 +1,41 @@
+{
+  "url": "https://www.opusbuildersla.com/",
+  "name": "Opus Builders - Custom Home Construction",
+  "@type": "LocalBusiness",
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Los Angeles"
+  },
+  "@context": "https://schema.org",
+  "employee": [
+    {
+      "name": "Ryan Sison",
+      "@type": "Person",
+      "jobTitle": "Writer"
+    },
+    {
+      "name": "Gary",
+      "@type": "Person",
+      "jobTitle": "Management"
+    }
+  ],
+  "telephone": "(818) 939-8855",
+  "areaServed": {
+    "name": "Los Angeles",
+    "@type": "City"
+  },
+  "description": "Professional Custom Home Construction services in Los Angeles. Opus Builders is a Los Angeles based residential and commercial construction company specializing in luxury home design, renovations, and high-quality builds with over 35 years of experience.",
+  "hasOfferCatalog": {
+    "name": "Custom Home Construction Services",
+    "@type": "OfferCatalog",
+    "itemListElement": [
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Custom Home Construction",
+          "@type": "Service"
+        }
+      }
+    ]
+  }
+}

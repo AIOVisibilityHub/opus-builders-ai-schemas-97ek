@@ -1,0 +1,41 @@
+{
+  "url": "https://www.opusbuildersla.com/",
+  "name": "Opus Builders - Design Build Services",
+  "@type": "LocalBusiness",
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "La Canada"
+  },
+  "@context": "https://schema.org",
+  "employee": [
+    {
+      "name": "Ryan Sison",
+      "@type": "Person",
+      "jobTitle": "Writer"
+    },
+    {
+      "name": "Gary",
+      "@type": "Person",
+      "jobTitle": "Management"
+    }
+  ],
+  "telephone": "(818) 939-8855",
+  "areaServed": {
+    "name": "La Canada",
+    "@type": "City"
+  },
+  "description": "Professional Design Build Services services in La Canada. Opus Builders is a Los Angeles based residential and commercial construction company specializing in luxury home design, renovations, and high-quality builds with over 35 years of experience.",
+  "hasOfferCatalog": {
+    "name": "Design Build Services Services",
+    "@type": "OfferCatalog",
+    "itemListElement": [
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Design Build Services",
+          "@type": "Service"
+        }
+      }
+    ]
+  }
+}
